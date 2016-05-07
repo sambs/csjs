@@ -1,14 +1,18 @@
 
 
-  .foo_1aWxTX {
+  .foo_boKRv {
     color: red;
   }
 
-  .bar_1aWxTX {
+  .bar_boKRv {
     background: blue;
   }
 
-  .baz_1aWxTX {
+  .baz_boKRv {
     text-transform: uppercase;
   }
 
+  .pop_boKRv,
+  .qux_boKRv {
+    font-style: italic;
+  }

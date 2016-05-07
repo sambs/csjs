@@ -14,4 +14,9 @@ module.exports = csjs`
     text-transform: uppercase;
   }
 
+  .pop extends .foo,
+  .qux {
+    font-style: italic;
+  }
+
 `;
