@@ -8,7 +8,7 @@ module.exports = csjs`
     font-family: serif;
   }
 
-  .baz extends .lol, ${external.bar} {
+  .baz extends (.lol, ${external.bar}) {
     font-size: 12px;
   }
 
